@@ -1,22 +1,22 @@
-Food_Item,Category,Calories (kcal),Protein (g),Carbohydrates (g),Fat (g),Fiber (g),Sugars (g),Sodium (mg),Cholesterol (mg),Meal_Type,Water_Intake (ml)
-Jasmine Rice (1 cup cooked),Grain,205,4.3,45.0,0.4,0.6,0.0,2,0,Dinner,0
-Milk (2%, 1 cup),Dairy,122,8.0,12.0,5.0,0.0,12.0,100,20,Breakfast,0
-White Rice (1 cup cooked),Grain,204,4.2,44.5,0.4,0.6,0.1,2,0,Dinner,0
-Butter (1 tbsp),Condiment/Dairy,100,0.1,0.0,11.0,0.0,0.0,82,30,Breakfast,0
-Apple,Fruit,95,0.5,25.0,0.3,4.4,19.0,2,0,Snack,0
-Collard Greens (1 cup cooked),Vegetable,60,5.0,10.0,1.0,7.0,1.0,40,0,Dinner,0
-Hard-Boiled Egg (1 large),Protein,78,6.3,0.6,5.3,0.0,0.5,62,187,Snack,0
-Corn Tortilla (1 medium),Grain,52,1.4,11.2,0.7,1.5,0.2,4,0,Dinner,0
-Eggplant (1/2 cup in caponata),Vegetable,40,0.5,6.0,2.0,2.0,3.0,150,0,Dinner,0
-Chickpeas (1/2 cup canned),Legume,135,7.0,22.0,2.0,6.0,3.0,250,0,Lunch,0
-White Beans (Tuscan style 1/2 cup),Legume,150,8.0,20.0,4.0,7.0,2.0,350,0,Dinner,0
-Tofu (4oz firm),Protein/Vegetarian,90,10.0,3.0,5.0,2.0,1.0,10,0,Lunch,0
-Cucumber (1/4 cup side),Vegetable,8,0.3,1.8,0.0,0.2,0.8,1,0,Breakfast,0
-Mayonnaise (1 tbsp),Condiment,90,0.1,0.1,10.0,0.0,0.1,70,5,Lunch,0
-Greek Yogurt (plain 1 cup),Dairy,150,25.0,8.0,3.0,0.0,7.0,85,10,Snack,250
-Kale (1 cup in soup),Vegetable,33,2.9,6.0,0.6,2.0,1.0,29,0,Dinner,0
-Steamed Broccoli (1 cup),Vegetable,55,3.7,11.2,0.6,5.1,2.0,40,0,Dinner,0
-Bok Choy (1 cup steamed),Vegetable,10,1.5,2.0,0.1,1.0,1.0,40,0,Dinner,0
-Carrot Sticks (1 cup),Vegetable,52,1.2,12.3,0.3,3.6,6.0,88,0,Snack,0
-Tomato (1 medium sliced),Vegetable,22,1.1,4.8,0.2,1.5,3.2,6,0,Lunch,0
-Onion (1/2 cup raw chopped),Vegetable,32,0.9,7.5,0.1,1.4,3.8,3,0,Dinner,0
+Food_Item,Category,Calories (kcal),Protein (g),Carbohydrates (g),Fat (g),Fiber (g),Sugars (g),Sodium (mg),Cholesterol (mg),Meal_Type,Water_Intake (ml),Estimated_Price (USD)
+Jasmine Rice (1 cup cooked),Grain,205,4.3,45.0,0.4,0.6,0.0,2,0,Dinner,0,0.15
+White Rice (1 cup cooked),Grain,204,4.2,44.5,0.4,0.6,0.1,2,0,Dinner,0,0.15
+Corn Tortilla (1 medium),Grain,52,1.4,11.2,0.7,1.5,0.2,4,0,Dinner,0,0.10
+Milk (2%, 1 cup),Dairy,122,8.0,12.0,5.0,0.0,12.0,100,20,Breakfast,0,0.26
+Butter (1 tbsp),Condiment/Dairy,100,0.1,0.0,11.0,0.0,0.0,82,30,Breakfast,0,0.09
+Apple,Fruit,95,0.5,25.0,0.3,4.4,19.0,2,0,Snack,0,0.70
+Collard Greens (1 cup cooked),Vegetable,60,5.0,10.0,1.0,7.0,1.0,40,0,Dinner,0,0.50
+Hard-Boiled Egg (1 large),Protein,78,6.3,0.6,5.3,0.0,0.5,62,187,Snack,0,0.40
+Chickpeas (1/2 cup canned),Legume,135,7.0,22.0,2.0,6.0,3.0,250,0,Lunch,0,0.40
+White Beans (Tuscan style 1/0.5 cup),Legume,150,8.0,20.0,4.0,7.0,2.0,350,0,Dinner,0,0.40
+Tofu (4oz firm),Protein/Vegetarian,90,10.0,3.0,5.0,2.0,1.0,10,0,Lunch,0,0.75
+Greek Yogurt (plain 1 cup),Dairy,150,25.0,8.0,3.0,0.0,7.0,85,10,Snack,250,0.95
+Cucumber (1/4 cup side),Vegetable,8,0.3,1.8,0.0,0.2,0.8,1,0,Breakfast,0,0.10
+Mayonnaise (1 tbsp),Condiment,90,0.1,0.1,10.0,0.0,0.1,70,5,Lunch,0,0.05
+Kale (1 cup in soup),Vegetable,33,2.9,6.0,0.6,2.0,1.0,29,0,Dinner,0,0.40
+Steamed Broccoli (1 cup),Vegetable,55,3.7,11.2,0.6,5.1,2.0,40,0,Dinner,0,0.50
+Bok Choy (1 cup steamed),Vegetable,10,1.5,2.0,0.1,1.0,1.0,40,0,Dinner,0,0.40
+Carrot Sticks (1 cup),Vegetable,52,1.2,12.3,0.3,3.6,6.0,88,0,Snack,0,0.30
+Tomato (1 medium sliced),Vegetable,22,1.1,4.8,0.2,1.5,3.2,6,0,Lunch,0,0.60
+Onion (1/2 cup raw chopped),Vegetable,32,0.9,7.5,0.1,1.4,3.8,3,0,Dinner,0,0.20
+Eggplant (1/2 cup in caponata),Vegetable,40,0.5,6.0,2.0,2.0,3.0,150,0,Dinner,0,0.50
