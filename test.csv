@@ -1,5 +1,4 @@
 Food_Item,Category,Calories (kcal),Protein (g),Carbohydrates (g),Fat (g),Fiber (g),Sugars (g),Sodium (mg),Cholesterol (mg),Meal_Type,Water_Intake (ml),Estimated_Price (USD)
-Jasmine Rice (1 cup cooked),Grain,205,4.3,45.0,0.4,0.6,0.0,2,0,Dinner,0,0.15
 White Rice (1 cup cooked),Grain,204,4.2,44.5,0.4,0.6,0.1,2,0,Dinner,0,0.15
 Corn Tortilla (1 medium),Grain,52,1.4,11.2,0.7,1.5,0.2,4,0,Dinner,0,0.10
 Milk (2%, 1 cup),Dairy,122,8.0,12.0,5.0,0.0,12.0,100,20,Breakfast,0,0.26
